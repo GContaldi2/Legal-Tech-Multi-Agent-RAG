@@ -1,0 +1,7 @@
+---
+tipo: norma
+regime: b2c
+argomento: garanzia
+---
+Fonte: Codice del Consumo - Art. 135-bis - Garanzia convenzionale
+Ogni garanzia convenzionale vincola chi la offre secondo le modalità indicate nella dichiarazione di garanzia e nella relativa pubblicità.

@@ -1,0 +1,8 @@
+---
+tipo: giurisprudenza
+regime: cc
+argomento: termini
+argomento: scoperta_vizio
+---
+Fonte: Cassazione Civile, Sez. III, 28 gennaio 2019, n. 2208
+PRINCIPIO: Il termine di otto giorni per la denuncia dei vizi (art. 1495 c.c.) decorre non dalla scoperta materiale del difetto, ma dal momento in cui il compratore, usando l'ordinaria diligenza, avrebbe potuto riconoscere il vizio come tale.

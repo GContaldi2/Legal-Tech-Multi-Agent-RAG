@@ -1,0 +1,7 @@
+---
+tipo: giurisprudenza
+regime: cc
+argomento: onere_prova
+---
+Fonte: Cassazione Civile, Sez. II, 18 maggio 2020, n. 9139
+PRINCIPIO: L'onere della prova dell'esistenza del vizio grava sul compratore. Il compratore deve dimostrare che il difetto sussisteva già al momento della consegna ed era idoneo a rendere la cosa inidonea all'uso o a diminuirne apprezzabilmente il valore.

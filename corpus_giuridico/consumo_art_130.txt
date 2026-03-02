@@ -1,0 +1,9 @@
+---
+tipo: norma
+regime: b2c
+argomento: termini
+argomento: difetto_conformita
+---
+Fonte: Codice del Consumo - Art. 130 - Termini
+Il venditore è responsabile per i difetti di conformità che si manifestano entro due anni dalla consegna del bene.
+Il consumatore decade dai diritti previsti dall'articolo 130, comma 2, se non denuncia al venditore il difetto di conformità entro il termine di due mesi dalla data in cui ha scoperto il difetto.

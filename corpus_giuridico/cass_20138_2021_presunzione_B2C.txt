@@ -1,0 +1,8 @@
+---
+tipo: giurisprudenza
+regime: b2c
+argomento: onere_prova
+argomento: presunzione
+---
+Fonte: Cassazione Civile, Sez. III, 14 luglio 2021, n. 20138
+PRINCIPIO: Nei contratti B2C (Business-to-Consumer), la presunzione di difetto di conformità opera per i difetti manifestatisi entro due anni dalla consegna (art. 132 Codice Consumo). Spetta al venditore dimostrare che il difetto non esisteva al momento della consegna.

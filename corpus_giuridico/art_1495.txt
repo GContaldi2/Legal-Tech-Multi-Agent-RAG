@@ -1,0 +1,9 @@
+---
+tipo: norma
+regime: cc
+argomento: termini
+---
+Art. 1495 c.c. - Termini e condizioni per l'azione
+Il compratore decade dal diritto alla garanzia, se non denuncia i vizi al venditore entro otto giorni dalla scoperta, salvo il diverso termine stabilito dalle parti o dalla legge.
+La denunzia non è necessaria se il venditore ha riconosciuto l'esistenza del vizio o l'ha occultato.
+L'azione si prescrive, in ogni caso, in un anno dalla consegna; ma il compratore, che sia convenuto per l'esecuzione del contratto, può sempre far valere la garanzia, purché il vizio della cosa sia stato denunziato entro otto giorni dalla scoperta e prima del decorso dell'anno dalla consegna.

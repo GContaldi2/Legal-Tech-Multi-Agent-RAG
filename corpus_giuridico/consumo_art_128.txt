@@ -1,0 +1,12 @@
+---
+tipo: norma
+regime: b2c
+argomento: difetto_conformita
+argomento: definizione
+---
+Fonte: Codice del Consumo - Art. 128 - Difetto di conformità
+Il venditore ha l'obbligo di consegnare al consumatore beni conformi al contratto di vendita.
+Si presume che i beni di consumo siano conformi al contratto se, ove pertinenti:
+a) sono idonei all'uso al quale servono abitualmente beni dello stesso tipo;
+b) sono conformi alla descrizione fatta dal venditore e possiedono le qualità del bene che il venditore ha presentato al consumatore come campione o modello;
+c) presentano la qualità e le prestazioni abituali di un bene dello stesso tipo, che il consumatore può ragionevolmente aspettarsi.

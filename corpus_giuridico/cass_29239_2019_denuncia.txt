@@ -1,0 +1,7 @@
+---
+tipo: giurisprudenza
+regime: cc
+argomento: termini
+---
+Fonte: Cassazione Civile, Sez. II, 12 novembre 2019, n. 29239
+PRINCIPIO: La denuncia dei vizi (ex art. 1495 c.c.) deve contenere l'indicazione dei difetti riscontrati con sufficiente specificità, ma non richiede formule sacramentali. È sufficiente che il venditore sia posto in condizione di conoscere i vizi lamentati.
